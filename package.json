@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rick-barrett/udemy-acs-natours/issues"
   },
-  "homepage": "https://github.com/rick-barrett/udemy-acs-natours#readme"
+  "homepage": "https://github.com/rick-barrett/udemy-acs-natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
 }
